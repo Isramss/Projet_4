@@ -45,6 +45,10 @@ body {
   justify-content: space-between;
   padding: 30px var(--PaddDesk);
 }
+.center {
+  max-width: 1170px;
+  margin: auto;
+}
 /*////// Section one Text + photo////////*/
 .contenair {
   display: flex;
